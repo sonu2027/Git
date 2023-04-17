@@ -42,3 +42,5 @@ Now if any repo have connected with github then when we add another or update fi
 2. git commit -m "message"
 3. git push
 After this three step folder will be automatically upadte in github
+
+To share my repo to other copy http and write commnad ---- git clone https://github.com/sonu2027/HTML.git(http link)
