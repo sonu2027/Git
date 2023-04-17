@@ -35,3 +35,10 @@ git branch -m branchName  --> To rename master branch
 Connection local system with github
 ssh-keygen -t rsa -b 4096 -C "takeinfo2u@gmail.com"  --> 1st command on git bash
 step2 Copy rsapub from .ssh(hidden files and paste it on ssh on github)
+
+
+Now if any repo have connected with github then when we add another or update files in repo then we need to follow this step..
+1. git add .
+2. git commit -m "message"
+3. git push
+After this three step folder will be automatically upadte in github
