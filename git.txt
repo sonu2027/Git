@@ -23,3 +23,8 @@ git commit -m "my first commit"
 For file, write full name of file eg. index.html, sonu.txt etc.
 For folder or directory, write folder name/ eg. sonu/
 For img, write *.png
+
+git branch  -->
+git branch Sonu  --> It will create Sonu namak branch
+git checkout Sonu  --> To switch branch
+git checkout -b "Branch name"  --> To create and switch to the branch
