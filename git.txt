@@ -30,4 +30,8 @@ git branch Sonu  --> It will create Sonu namak branch
 git checkout Sonu  --> To switch branch
 git checkout -b "Branch name"  --> To create and switch to the branch
 git merge masterBranchName  --> To merge branch
-ye asli h bhai
+git branch -m branchName  --> To rename master branch 
+
+Connection local system with github
+ssh-keygen -t rsa -b 4096 -C "takeinfo2u@gmail.com"  --> 1st command on git bash
+step2 Copy rsapub from .ssh(hidden files and paste it on ssh on github)
