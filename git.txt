@@ -19,7 +19,13 @@ git add. sonu.html command will add all new and modified files in the current di
 git add* sonu.html command will add all new, modified and deleted files in the current directory and its subdirectories to the stagging areas
 git status  --> To check the staus, is it commited or in staging?
 git commit -m "my first commit"
+
 .gitignore  --> In this file we will write the file, folder, img etc name so this folder can't go to github
 For file, write full name of file eg. index.html, sonu.txt etc.
 For folder or directory, write folder name/ eg. sonu/
 For img, write *.png
+
+git branch  -->
+git branch Sonu  --> It will create Sonu namak branch
+git checkout Sonu  --> To switch branch
+git checkout -b "Branch name"  --> To create and switch to the branch
