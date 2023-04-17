@@ -30,3 +30,4 @@ git branch Sonu  --> It will create Sonu namak branch
 git checkout Sonu  --> To switch branch
 git checkout -b "Branch name"  --> To create and switch to the branch
 git merge masterBranchName  --> To merge branch
+ye asli h bhai
